@@ -1,0 +1,16 @@
+name: "Kathleen Hablutzel"
+output_dir: "docs"
+navbar:
+  title: "Kathleen Hablutzel"
+  left:
+    - text: "Contact"
+      href: contact.html
+    - text: "Resume"
+      href: resume.html
+    - text: "Workshops"
+      menu:
+        - text: "R Data Science Bootcamp"
+          href: https://krhablutzel.github.io/srip-bootcamp/
+output:
+  html_document:
+    theme: yeti

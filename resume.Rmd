@@ -1,0 +1,25 @@
+---
+title: "Resume"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  message = FALSE,
+  echo = TRUE
+)
+library(tidyverse)
+```
+
+## Education
+Smith
+NCSSM
+
+## Experience
+Bluebonnet
+STRIDE
+SRIP
+
+## Activities & Leadership
+
+## Skills & Interests
