@@ -1,3 +1,5 @@
-# srip-bootcamp
+# Kathleen Hablutzel's Personal Website
 
-This summer, I'm running a Data Science bootcamp for rising high school seniors in NCSSM's Summer Research & Innovation Program. This website will host my instructional material.
+This repository houses my personal website, which I hope to use to showcase my resume and coding projects.
+
+You know, all those fancy networking things for finding internships and such...

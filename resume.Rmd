@@ -1,5 +1,5 @@
 ---
-title: "Resume"
+title: ""
 output: html_document
 ---
 
@@ -11,15 +11,89 @@ knitr::opts_chunk$set(
 library(tidyverse)
 ```
 
-## Education
-Smith
-NCSSM
+<br>
 
 ## Experience
-Bluebonnet
-STRIDE
-SRIP
+
+<br>
+
+### Bluebonnet Data
+#### Data Fellow, Cynthia Wallace for Congress
+##### *June 2020 – Present*, Charlotte, NC
+* Perform tactical field analytics for Cynthia Wallace’s campaign in the NC-09 Congressional District
+* Identified over 1000 potential donors using the Python BeautifulSoup library for web scraping
+* Visualized demographic trends in the district using the ggplot2, sf, and leaflet packages in R
+
+<br>
+
+### STRIDE Research Program
+#### Research Assistant for Professor Brent Durbin
+##### *Sept. 2019 – Present*, Northampton, MA
+* Explore the history and politics of data science, with a particular focus on the relationship between data and power
+* Investigate use of facial recognition systems for data-driven surveillance, with a focus on China and the US
+
+<br>
+
+### Summer Research & Innovation Program
+#### Program Assistant (North Carolina School of Science and Mathematics)
+##### *June – Aug. 2018, 2019, 2020*, Durham, NC (North Carolina School of Science and Mathematics)
+* Developed 5-lesson R Data Science Bootcamp for over 25 students, including data visualization and data wrangling
+* Led redesign of the website architecture of the Research & Innovation Google Site
+* Built Python script to format 153 student projects into HTML5 backbone to showcase within Google Site
+* As program participant in 2018, implemented optimization algorithms in MATLAB and built edge detection programs in Python with OpenCV through an internship at the Duke University Zavlanos robotics laboratory
+
+<br>
+
+<br>
+
+## Education
+
+<br>
+
+### Smith College '23
+
+#### Majors in Computer Science & Statistical and Data Sciences
+
+* 4.0/4.0 GPA
+* **Zollman Scholarship:** Smith’s highest academic scholarship, awarded to fewer than 10 entering first-year students
+* **STRIDE Research Program:** Selective paid research assistant program, investigating data science policy
+* **Relevant Coursework:** Algorithms, Communicating with Data, Data Structures, Digital History, Multiple Regression
+
+<br>
+
+### North Carolina School of Science and Mathematics '19
+
+* 4.79/4.0 GPA
+* **Research in Computational Science Program:** Trained in R, Python, MATLAB, supercomputing, and other tools
+* **Mathematics Department Award:** For excellence in 10 math courses and over 12 mathematical modeling projects
+* **Mathematics Teaching Assistant:** Senior leadership position tutoring peers in Multivariable Calculus and other math
+
+<br>
+
+<br>
 
 ## Activities & Leadership
 
+**Props Internship:** Spearhead props design and construction for at least 5 Smith College theatrical productions
+
+**Reacting to the Past:** Negotiate support for historical legislation via debate and over 60 pages of speeches
+
+**Student Academic Advisor:** Advise 53 peers on academic success and course registration
+
+**Publication Editor-in-Chief, Broad Street Scientific & Fifth World:** Formatted 2 student research journals from theme design down to the smallest details
+
+**TEDx Committee Chairperson:** Coordinated 100-person TEDx conference with 5 speakers
+
+<br>
+
+<br>
+
 ## Skills & Interests
+
+**Programming:** Python, R, Java, SQL, JavaScript, HTML5, CSS, MATLAB
+
+**Tools:** Git/GitHub, Tableau, Gephi, LaTeX, Adobe InDesign
+
+**Interests:** 16th Century British Politics, Cryptography, Theater
+
+**Awards:** M3 Challenge Technical Computing Scholarship Award, High School Mathematical Contest in Modeling Outstanding Winner, Smith College Dean’s List
