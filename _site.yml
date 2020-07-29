@@ -14,3 +14,7 @@ navbar:
 output:
   html_document:
     theme: yeti
+    fig_height: 1.5
+    fig_width: 9
+    include:
+      after_body: _footer.html
