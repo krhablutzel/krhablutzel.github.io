@@ -13,7 +13,7 @@ library(tidyverse)
 
 <br>
 
-<img src="images/headshot.jpg" align="left" height="240px" width="240px" hspace="20" />
+<img src="images/headshot.jpg" align="left" height="250px" width="250px" hspace="20" />
 
 Hello! I'm Kathleen Hablutzel and I'm a double major in Computer Science & Statistical and Data Sciences (SDS) at Smith College ('23). I especially enjoy data visualization, data communication, and databases, and I love sharing data science enough that I built a [5-lesson introductory Data Science Bootcamp](srip-bootcamp/) for high school students. 
 
