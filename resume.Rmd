@@ -21,7 +21,7 @@ library(tidyverse)
 #### Data Fellow, Cynthia Wallace for Congress
 ##### *June 2020 – Present*, Charlotte, NC
 * Perform tactical field analytics for Cynthia Wallace’s campaign in the NC-09 Congressional District
-* Identified over 1000 potential donors using the Python BeautifulSoup library for web scraping
+* Identified over 2000 potential donors using the Python BeautifulSoup4 library for web scraping
 * Visualized demographic trends in the district using the ggplot2, sf, and leaflet packages in R
 
 <br>
@@ -92,7 +92,7 @@ library(tidyverse)
 
 **Programming:** Python, R, Java, SQL, JavaScript, HTML5, CSS, MATLAB
 
-**Tools:** Git/GitHub, Tableau, Gephi, LaTeX, Adobe InDesign
+**Tools:** Git/GitHub, Tableau, Gephi, ArcGIS, LaTeX, Adobe InDesign
 
 **Interests:** 16th Century British Politics, Cryptography, Theater
 

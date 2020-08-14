@@ -11,4 +11,4 @@ knitr::opts_chunk$set(
 library(tidyverse)
 ```
 
-<a href="https://github.com/krhablutzel"><img src="images/GitHub.jpg" align="center" height="250px" width="250px" hspace="20" /></a><a href="https://www.linkedin.com/in/kathleen-hablutzel/"><img src="images/LinkedIn.jpg" align="center" height="250px" width="250px" hspace="20" /></a>
+<a href="https://github.com/krhablutzel"><img src="images/GitHub.png" align="center" height="250px" width="250px" hspace="20" /></a><a href="https://www.linkedin.com/in/kathleen-hablutzel/"><img src="images/LinkedIn.png" align="center" height="250px" width="250px" hspace="20" /></a>
