@@ -17,20 +17,29 @@ library(tidyverse)
 
 <br>
 
+### STRIDE Research Program
+#### Software Engineering Research Assistant
+##### *Sept. 2019 – Present*, Northampton, MA
+*2020-2021 Software Engineering:*
+
+* Enhance front-end representations of links between intentions in web-based
+goal modeling tool, [BloomingLeaf](https://github.com/amgrubb/BloomingLeaf), using Java and JavaScript with Node.js
+* Internship in the Grubb Software Engineering Lab
+
+*2019-2020 Data Science Policy:*
+
+* Explored the history and politics of data science and tech industry, with a particular focus on the relationship between data and power, under Professor Brent Durbin
+* Investigated use of facial recognition systems for data-driven surveillance, with a focus on China and the US
+
+
 ### Bluebonnet Data
 #### Data Fellow, Cynthia Wallace for Congress
-##### *June 2020 – Present*, Charlotte, NC
-* Perform tactical field analytics for Cynthia Wallace’s campaign in the NC-09 Congressional District
+##### *June – November 2020*, Charlotte, NC
+* Performed tactical field analytics for Cynthia Wallace’s campaign in the NC-09 Congressional District
 * Identified over 2000 potential donors from publicly available data sources using the Python BeautifulSoup4 library
 * Visualized demographic trends in the district using the ggplot2, sf, and leaflet packages in R
 
 <br>
-
-### STRIDE Research Program
-#### Research Assistant for Professor Brent Durbin
-##### *Sept. 2019 – Present*, Northampton, MA
-* Explore the history and politics of data science and the tech industry, with a particular focus on the relationship between data and power
-* Investigate use of facial recognition systems for data-driven surveillance, with a focus on China and the US
 
 <br>
 
@@ -74,6 +83,8 @@ library(tidyverse)
 <br>
 
 ## Activities & Leadership
+
+**Smithies in Statistical and Data Sciences Treasurer** Manage funds and organize department student/faculty lunches
 
 **Student Academic Advisor:** Advise 53 peers on academic success and course registration
 

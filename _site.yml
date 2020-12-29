@@ -7,10 +7,14 @@ navbar:
       href: contact.html
     - text: "Resume"
       href: resume.html
-    - text: "Workshops"
+    - text: "Projects"
       menu:
         - text: "R Data Science Bootcamp"
           href: https://krhablutzel.github.io/srip-bootcamp/
+        - text: "The Amplifier Project"
+          href: https://sophia.smith.edu/theamplifier/enter/
+        - text: "BloomingLeaf"
+          href: https://github.com/amgrubb/BloomingLeaf
 output:
   html_document:
     theme: yeti
