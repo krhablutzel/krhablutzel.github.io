@@ -84,7 +84,7 @@ goal modeling tool, [BloomingLeaf](https://github.com/amgrubb/BloomingLeaf), usi
 
 ## Activities & Leadership
 
-**Smithies in Statistical and Data Sciences Treasurer** Manage funds and organize department student/faculty lunches
+**Smithies in Statistical and Data Sciences Treasurer:** Manage funds and organize department student/faculty lunches
 
 **Student Academic Advisor:** Advise 53 peers on academic success and course registration
 
