@@ -13,20 +13,27 @@ library(tidyverse)
 
 <br>
 
+PDF version available [here](./Kathleen_Hablutzel_Resume.pdf).
+
 ## Experience
 
 <br>
 
 ### STRIDE Research Program
 #### Software Engineering Research Assistant
-##### *Sept. 2019 – Present*, Northampton, MA
-*2020-2021 Software Engineering:*
+##### *Sept. 2020 – Present*, Northampton, MA
 
-* Enhance front-end representations of links between intentions in web-based
-goal modeling tool, [BloomingLeaf](https://github.com/amgrubb/BloomingLeaf), using Java and JavaScript with Node.js
+* Refactor model management features in web-based requirements engineering goal modeling tool, [BloomingLeaf](https://github.com/amgrubb/BloomingLeaf),  using Java, JavaScript, JQuery, JSON, and HTML/CSS
 * Internship in the Grubb Software Engineering Lab
 
-*2019-2020 Data Science Policy:*
+#### Algorithms Teaching Assistant
+##### *Feb. 2021 — Present*, Northampton, MA
+
+* Tutor students in theory and implementation of common algorithms and algorithmic design techniques
+
+### STRIDE Research Program
+#### Data Science Policy Research Assistant
+##### *Sept. 2019 – Sept. 2020*, Northampton, MA
 
 * Explored the history and politics of data science and tech industry, with a particular focus on the relationship between data and power, under Professor Brent Durbin
 * Investigated use of facial recognition systems for data-driven surveillance, with a focus on China and the US
@@ -67,7 +74,7 @@ goal modeling tool, [BloomingLeaf](https://github.com/amgrubb/BloomingLeaf), usi
 * 4.0/4.0 GPA
 * **Zollman Scholarship:** Smith’s highest academic scholarship, awarded to fewer than 10 entering first-year students
 * **STRIDE Research Program:** Selective paid research assistant program, investigating data science policy
-* **Relevant Coursework:** Algorithms, Communicating with Data, Data Structures, Digital History, Multiple Regression
+* **Relevant Coursework:** Algorithms, Machine Learning, Communicating with Data, Data Structures, Theory of Computation, Digital History, Research Design and Analysis, Multiple Regression
 
 <br>
 

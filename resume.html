@@ -11,8 +11,9 @@
 
 
 
-<title></title>
+<title>resume.utf8</title>
 
+<script src="site_libs/header-attrs-2.6/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
@@ -22,6 +23,15 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -67,6 +77,7 @@ h6 {
   text-align: left;
 }
 </style>
+
 
 
 
@@ -312,6 +323,7 @@ $(document).ready(function () {
 
 
 <p><br></p>
+<p>PDF version available <a href="./Kathleen_Hablutzel_Resume.pdf">here</a>.</p>
 <div id="experience" class="section level2">
 <h2>Experience</h2>
 <p><br></p>
@@ -319,14 +331,30 @@ $(document).ready(function () {
 <h3>STRIDE Research Program</h3>
 <div id="software-engineering-research-assistant" class="section level4">
 <h4>Software Engineering Research Assistant</h4>
-<div id="sept.-2019-present-northampton-ma" class="section level5">
-<h5><em>Sept. 2019 – Present</em>, Northampton, MA</h5>
-<p><em>2020-2021 Software Engineering:</em></p>
+<div id="sept.-2020-present-northampton-ma" class="section level5">
+<h5><em>Sept. 2020 – Present</em>, Northampton, MA</h5>
 <ul>
-<li>Enhance front-end representations of links between intentions in web-based goal modeling tool, <a href="https://github.com/amgrubb/BloomingLeaf">BloomingLeaf</a>, using Java and JavaScript with Node.js</li>
+<li>Refactor model management features in web-based requirements engineering goal modeling tool, <a href="https://github.com/amgrubb/BloomingLeaf">BloomingLeaf</a>, using Java, JavaScript, JQuery, JSON, and HTML/CSS</li>
 <li>Internship in the Grubb Software Engineering Lab</li>
 </ul>
-<p><em>2019-2020 Data Science Policy:</em></p>
+</div>
+</div>
+<div id="algorithms-teaching-assistant" class="section level4">
+<h4>Algorithms Teaching Assistant</h4>
+<div id="feb.-2021-present-northampton-ma" class="section level5">
+<h5><em>Feb. 2021 — Present</em>, Northampton, MA</h5>
+<ul>
+<li>Tutor students in theory and implementation of common algorithms and algorithmic design techniques</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="stride-research-program-1" class="section level3">
+<h3>STRIDE Research Program</h3>
+<div id="data-science-policy-research-assistant" class="section level4">
+<h4>Data Science Policy Research Assistant</h4>
+<div id="sept.-2019-sept.-2020-northampton-ma" class="section level5">
+<h5><em>Sept. 2019 – Sept. 2020</em>, Northampton, MA</h5>
 <ul>
 <li>Explored the history and politics of data science and tech industry, with a particular focus on the relationship between data and power, under Professor Brent Durbin</li>
 <li>Investigated use of facial recognition systems for data-driven surveillance, with a focus on China and the US</li>
@@ -355,7 +383,7 @@ $(document).ready(function () {
 <div id="program-assistant-north-carolina-school-of-science-and-mathematics" class="section level4">
 <h4>Program Assistant (North Carolina School of Science and Mathematics)</h4>
 <div id="june-aug.-2018-2019-2020-durham-nc-north-carolina-school-of-science-and-mathematics" class="section level5">
-<h5><em>June – Aug. 2018, 2019, 2020</em>, Durham, NC (North Carolina School of Science and Mathematics)</h5>
+<h5><em>June – Aug. 2018, 2019, 2020</em>, Durham, NC (North Carolina School of Science and Mathematics)</h5>
 <ul>
 <li>Developed repeatable curriculum for an R Data Science Bootcamp, including data visualization and data wrangling</li>
 <li>Led redesign of the website architecture of the Research &amp; Innovation Google Site</li>
@@ -379,7 +407,7 @@ $(document).ready(function () {
 <li>4.0/4.0 GPA</li>
 <li><strong>Zollman Scholarship:</strong> Smith’s highest academic scholarship, awarded to fewer than 10 entering first-year students</li>
 <li><strong>STRIDE Research Program:</strong> Selective paid research assistant program, investigating data science policy</li>
-<li><strong>Relevant Coursework:</strong> Algorithms, Communicating with Data, Data Structures, Digital History, Multiple Regression</li>
+<li><strong>Relevant Coursework:</strong> Algorithms, Machine Learning, Communicating with Data, Data Structures, Theory of Computation, Digital History, Research Design and Analysis, Multiple Regression</li>
 </ul>
 <p><br></p>
 </div>
@@ -431,7 +459,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
