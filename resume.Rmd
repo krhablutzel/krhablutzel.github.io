@@ -110,7 +110,7 @@ PDF version available [here](./Kathleen_Hablutzel_Resume.pdf).
 
 ## Awards
 
-*	**Honorable Mention**, [The Undergraduate Statistics Project Competition](https://www.causeweb.org/usproc/usclap/2020/fall/winners), Intermediate Statistics
+*	**Honorable Mention**, [2020 Fall Undergraduate Statistics Class Project Competition](https://www.causeweb.org/usproc/usclap/2020/fall/winners), Intermediate Statistics
 *	Arthur Ellis Hamm Prize **Winner**
 *	Smith College **Dean’s List** 2019-2020
 *	**Technical Computing Scholarship Award**, [MathWorks Math Modeling Challenge](https://m3challenge.siam.org/archives/2019/winning-solutions)
