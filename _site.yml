@@ -9,12 +9,14 @@ navbar:
       href: resume.html
     - text: "Projects"
       menu:
-        - text: "R Data Science Bootcamp"
-          href: https://krhablutzel.github.io/srip-bootcamp/
-        - text: "The Amplifier Project"
-          href: https://sophia.smith.edu/theamplifier/enter/
         - text: "BloomingLeaf"
           href: https://github.com/amgrubb/BloomingLeaf
+        - text: "The Amplifier Project"
+          href: https://sophia.smith.edu/theamplifier/enter/
+        - text: "Stats Competition"
+          href: https://www.causeweb.org/usproc/usclap/2020/fall/winners
+        - text: "R Data Science Bootcamp"
+          href: https://krhablutzel.github.io/srip-bootcamp/
 output:
   html_document:
     theme: yeti
