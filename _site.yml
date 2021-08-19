@@ -9,6 +9,10 @@ navbar:
       href: resume.html
     - text: "Projects"
       menu:
+        - text: "Unconventional Knitting Project Generator"
+          href: https://krhablutzel.github.io/KnittingPatternGenerator/
+        - text: "Machine Learning Portfolio"
+          href: https://github.com/comp-machine-learning-spring2021/portfolio-krhablutzel
         - text: "BloomingLeaf"
           href: https://github.com/amgrubb/BloomingLeaf
         - text: "The Amplifier Project"
