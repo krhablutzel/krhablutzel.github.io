@@ -19,11 +19,13 @@ PDF version available [here](./Kathleen_Hablutzel_Resume.pdf).
 
 <br>
 
-## Skills & Interests
+## Skills & Certifications
 
-**Programming:** Python, R, Java, SQL, JavaScript, MATLAB
+**Languages:** Python, JavaScript, R, Java, SQL
 
-**Tools:** Git/GitHub, HTML5/CSS, Tableau, Gephi, ArcGIS, LaTeX, Adobe InDesign
+**Tools/Skills:** Angular, Git/GitHub, Agile Development, HTML5/CSS, Tableau, Gephi, ArcGIS, LaTeX, Adobe InDesign
+
+**Bank of America Tech University Badges:** Python, Artificial Intelligence, Data Management Fundamentals
 
 <br>
 
@@ -33,19 +35,33 @@ PDF version available [here](./Kathleen_Hablutzel_Resume.pdf).
 
 <br>
 
+### Global Technology Sophomore Summer Analyst
+#### Bank of America, Corporate Treasury Data Horizontal Team
+##### *June – Aug. 2021*, Charlotte, NC
+* Automated joins and transformations of data tables in the Corporate Treasury data pipeline using Pandas DataFrames
+in Python
+* Translated Oracle SQL data mappings into Python API to replace existing third-party data management software
+handling data integration for Bank of America’s three corporate lines of business
+
+<br>
+
 ### Software Engineering Research Assistant
-#### STRIDE Research Program
+#### Smith College, STRIDE Research Program
 ##### *Sept. 2020 – Present*, Northampton, MA
 
-* Refactor model management features in web-based requirements engineering goal modeling tool, [BloomingLeaf](https://github.com/amgrubb/BloomingLeaf),  using Java, JavaScript, JQuery, JSON, and HTML/CSS
-* Internship in the Grubb Software Engineering Lab
+* Drive implementation of automatic goal model merging in web-based requirements engineering goal modeling tool, [BloomingLeaf](https://github.com/amgrubb/BloomingLeaf)
+* Foster Agile development practices employing Jira boards and weekly sprint planning meetings
+* Refactored frontend model management features using JavaScript, JQuery, JSON, and HTML/CSS
+* Research Assistantship in the Grubb Software Engineering Lab
 
 <br>
 
 ### Algorithms Teaching Assistant
+#### Smith College
 ##### *Feb. 2021 — Present*, Northampton, MA
 
 * Tutor students in theory and implementation of common algorithms and algorithmic design techniques
+* Selected as the first TA for Smith's new Applied Algorithms course in Spring 2021
 
 <br>
 
@@ -59,7 +75,7 @@ PDF version available [here](./Kathleen_Hablutzel_Resume.pdf).
 <br>
 
 ### Data Science Policy Research Assistant
-#### STRIDE Research Program
+#### Smith College, STRIDE Research Program
 ##### *Sept. 2019 – Sept. 2020*, Northampton, MA
 
 * Explored the history and politics of data science and tech industry, with a particular focus on the relationship between data and power, under Professor Brent Durbin
@@ -69,13 +85,19 @@ PDF version available [here](./Kathleen_Hablutzel_Resume.pdf).
 
 ### Program Assistant
 #### Summer Research & Innovation Program
-#### North Carolina School of Science and Mathematics
-##### *June – Aug. 2018, 2019, 2020*, Durham, NC (North Carolina School of Science and Mathematics)
+#### North Carolina School of Science and Mathematics (NCSSM)
+##### *June – Aug. 2019, 2020*, Durham, NC
 *	Developed repeatable curriculum for an R Data Science Bootcamp, including data visualization and data wrangling
 *	Led redesign of the website architecture of the Research & Innovation Google Site
 *	Built Python script to format 153 student projects into HTML5 website backbone for student research showcase
-*	As program participant in 2018, implemented optimization algorithms in MATLAB and built edge detection programs in Python with OpenCV through an internship at the Duke University Zavlanos robotics laboratory
 
+<br>
+
+### Intern, Zavlanos Robotics Laboratory
+#### Duke University + NCSSM Research in Computational Sciences Program
+##### *June – Aug. 2018*, Durham, NC
+*	Implemented gradient descent optimization algorithms in MATLAB for sparse complex matricies
+* Built edge detection programs in Python with OpenCV
 
 <br>
 
@@ -92,7 +114,7 @@ PDF version available [here](./Kathleen_Hablutzel_Resume.pdf).
 * 4.0/4.0 GPA
 * **Zollman Scholarship:** Smith’s highest academic scholarship, awarded to fewer than 10 entering first-year students
 * **STRIDE Research Program:** Selective paid research assistant program, investigating data science policy
-* **Relevant Coursework:** Algorithms, Machine Learning, Introduction to Data Science, Data Structures, Theory of Computation, Communicating with Data, Digital History, Research Design and Analysis, Multiple Regression, Linear Algebra
+* **Relevant Coursework:** Algorithms, Machine Learning, Network Security, Communicating with Data, Data Structures, Intro Data Science, Linear Algebra, Multiple Regression, Research Design & Analysis, Theory of Computation
 
 <br>
 
@@ -110,6 +132,7 @@ PDF version available [here](./Kathleen_Hablutzel_Resume.pdf).
 
 ## Awards
 
+* **Best in Design**, HackSmith 2021 for the [Unconventional Knitting Pattern Generator](https://krhablutzel.github.io/KnittingPatternGenerator/)
 *	**Honorable Mention**, [2020 Fall Undergraduate Statistics Class Project Competition](https://www.causeweb.org/usproc/usclap/2020/fall/winners), Intermediate Statistics
 *	Arthur Ellis Hamm Prize **Winner**
 *	Smith College **Dean’s List** 2019-2020
@@ -122,9 +145,15 @@ PDF version available [here](./Kathleen_Hablutzel_Resume.pdf).
 
 ## Activities & Leadership
 
-**Smithies in Statistical and Data Sciences Treasurer:** Manage funds and organize department student/faculty lunches
+**Smith Computer Science Department Liaison:** Runs weekly CS community programming including interview prep, mini hackathons, and financial literacy sessions. Communicates opportunities to the Smith CS community. Represents and advocates for CS student interests at CS faculty meetings.
 
-**Student Academic Advisor:** Advise 53 peers on academic success and course registration
+**Haven-Wesley House Council:** Coordinates house community-building activities as the junior class representative in my residential community at Smith College.
+
+**Workday User Acceptance Testing (UAT) Assistant:** Evaluated Workday Student system rollout from user perspective and suggested critical design considerations
+
+**The Amplifier Project Web Developer:** Built the virtual stage for Smith College Theater's Fall 2020 production
+
+**Smithies in Statistical and Data Sciences Treasurer:** Managed funds and organized department student/faculty lunches
 
 **Props Internship:** Led props design and construction for multiple Smith College theatrical productions
 
@@ -141,4 +170,4 @@ PDF version available [here](./Kathleen_Hablutzel_Resume.pdf).
 
 ## Other Interests
 
-16th Century British Politics, Cryptography, Theater
+Cryptography, Running, Knitting, Theater, 16^th^ Century British Politics
