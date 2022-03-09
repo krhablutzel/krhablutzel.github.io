@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Kathleen's Resume"
 output: html_document
 ---
 
@@ -12,6 +12,8 @@ library(tidyverse)
 ```
 
 <br>
+
+**Menu just links to Resume PDF for now. Maintaining two resumes in slightly different formats is a lot!**
 
 PDF version available [here](./Kathleen_Hablutzel_Resume.pdf).
 

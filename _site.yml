@@ -3,24 +3,32 @@ output_dir: "."
 navbar:
   title: "Kathleen Hablutzel"
   left:
-    - text: "Contact"
-      href: contact.html
     - text: "Resume"
-      href: resume.html
+      href: ./Kathleen_Hablutzel_Resume.pdf
     - text: "Projects"
       menu:
+        - text: "BloomingLeaf"
+          href: https://github.com/amgrubb/BloomingLeaf
+        - text: "Port Scanner"
+          href: https://github.com/lgroves29/NetSecPortScanner
+        - text: "Bioinformatics ML Project"
+          href: https://github.com/krhablutzel/codon-usage-bias
         - text: "Unconventional Knitting Project Generator"
           href: https://krhablutzel.github.io/KnittingPatternGenerator/
         - text: "Machine Learning Portfolio"
           href: https://github.com/comp-machine-learning-spring2021/portfolio-krhablutzel
-        - text: "BloomingLeaf"
-          href: https://github.com/amgrubb/BloomingLeaf
         - text: "The Amplifier Project"
           href: https://sophia.smith.edu/theamplifier/enter/
         - text: "Stats Competition"
           href: https://www.causeweb.org/usproc/usclap/2020/fall/winners
         - text: "R Data Science Bootcamp"
           href: https://krhablutzel.github.io/srip-bootcamp/
+    - text: "Contact"
+      menu:
+        - text: "GitHub"
+          href: https://github.com/krhablutzel/
+        - text: "LinkedIn"
+          href: https://www.linkedin.com/in/kathleen-hablutzel/
 output:
   html_document:
     theme: yeti

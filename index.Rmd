@@ -1,5 +1,5 @@
 ---
-title: " "
+title: "Kathleen's Website"
 output: html_document
 ---
 
@@ -15,7 +15,10 @@ library(tidyverse)
 
 <img src="images/headshot-Dec-2020.jpg" align="left" height="250px" width="250px" hspace="20" />
 
-Hello! I'm Kathleen Hablutzel and I'm a double major in Computer Science & Statistical and Data Sciences at Smith College (graduating May 2023). I especially enjoy cryptography, machine learning, data wrangling, and networks. I'm a software engineering intern in Smith's Grubb Lab, where I contribute to [BloomingLeaf](https://github.com/amgrubb/BloomingLeaf), a web-based tool for goal-oriented requirements engineering, and I TA for Smith's Algorithms and Applied Algorithms courses. Over the summer of 2021, I was a data engineer for Bank of America's Corporate Treasury data warehouses through the Global Technology Sophomore Summer Analyst Program. I look forward to returning to Bank of America in summer 2022 in the Global Information Security division!
-In the past, I've also volunteered as a data scientist for a Congressional campaign (Cynthia Wallace in 2020) and built an [introductory data science course](srip-bootcamp/) for high school students at my alma mater, the North Carolina School of Science and Mathematics (go Unicorns!).
+Hello! I'm Kathleen Hablutzel and I'm a double major in Computer Science & Statistical and Data Sciences at Smith College, graduating January 2023 (accelerated by one semester). I especially enjoy cybersecurity, cryptography, machine learning, and data wrangling.
+
+At Smith, I'm a software engineering intern in Prof. Alicia M. Grubb's lab, where I contribute to [BloomingLeaf](https://github.com/amgrubb/BloomingLeaf), a web-based tool for goal-oriented requirements engineering. I'm also a student pedagogical partner for CSC294 Computational Machine Learning, focused on redesigning the decision tree and random forest classifier labs. I have also been a TA for Smith's Algorithms and Applied Algorithms courses, and worked on numerous projects available under the Projects tab.
+
+Over the summer of 2021, I worked as a data engineer for Bank of America's Corporate Treasury data warehouses through the Global Technology Sophomore Summer Analyst Program. I look forward to returning to Bank of America in summer 2022 in the Global Information Security division!
 
 When I'm not coding or nerding out over cool graphs, I enjoy running, knitting, building props and sets with the Smith College Theater Department, coding cryptographic ciphers, and exploring 16^th^ century British politics.
